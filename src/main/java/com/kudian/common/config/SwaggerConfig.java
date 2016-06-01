@@ -18,6 +18,7 @@ import org.springframework.context.annotation.Configuration;
 public class SwaggerConfig {
     private SpringSwaggerConfig springSwaggerConfig;
 
+
     /**
      * Required to autowire SpringSwaggerConfig
      */
